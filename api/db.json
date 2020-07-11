@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Gürkan Özer",
+      "salary": "5000",
+      "department": "yok",
+      "id": "n1"
+    },
+    {
+      "name": "nuriye nurioğlu",
+      "salary": "10000",
+      "department": "insan kaymakları",
+      "id": "9U774vj"
+    },
+    {
+      "name": "hamdi ham",
+      "salary": "19000",
+      "department": "Pazarlama",
+      "id": "Z5tywll"
+    }
+  ]
+}
